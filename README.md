@@ -1,5 +1,4 @@
 # Rendimiento-Maximo-Trabajadores
-# Rendimiento-Maximo-Trabajadores
 
 **Problema planteado:** En una compañía donde trabaja se encuentran *N* trabajadores, donde cada uno posee un nivel de rendimiento que fue previamente cuantificado y 
 suministrado en un arreglo de enteros *T*, y la compañía está interesada en aumentar los niveles de rendimiento de los trabajadores. En ese orden de ideas, se juntarán máximo *K* trabajadores en un grupo, con el propósito de que el mejor trabajador influya en los demás, por lo que cada integrante mejorará y tendrá el nivel de rendimiento de este mejor trabajador. Estos grupos deben tomarse de forma consecutiva, para evitar desórdenes mayores. Su programa debería retornar, en pares, desde qué integrante hasta que integrante comienza cada uno de los grupos formados, de tal forma de que se maximice la suma total de niveles de cada uno de los trabajadores una vez los grupos sean conformados.
